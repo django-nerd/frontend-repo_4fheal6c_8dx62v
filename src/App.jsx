@@ -5,7 +5,7 @@ import ProjectsGallery from './components/ProjectsGallery';
 
 function App() {
   return (
-    <div className="min-h-screen bg-slate-900 text-slate-900">
+    <div className="min-h-screen bg-slate-900 text-white">
       <header className="fixed left-0 right-0 top-0 z-50 mx-auto w-full max-w-7xl px-6 py-4">
         <div className="flex items-center justify-between rounded-2xl border border-white/10 bg-white/5 px-4 py-2 backdrop-blur">
           <a href="#" className="text-sm font-semibold tracking-wider text-white">Emma Tech Design</a>
